@@ -1,7 +1,7 @@
 public class vowelorconsonant{
     public static void main(String[] args) {
         
-        char ch = 'a';
+        char ch = 'A';
         
         switch (ch) {
             case 'a': case 'e': case 'i': case 'o': case 'u':

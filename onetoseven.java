@@ -2,7 +2,7 @@ public class onetoseven{
     public static void main(String[] args) {
         onetoseven obj= new onetoseven();
         System.out.print("Enter the day number (1-7): ");
-        int day =integer.nextInt();
+        int day = integer nextInt();
         switch (day) {
             case 1:
                 System.out.println("Monday");
