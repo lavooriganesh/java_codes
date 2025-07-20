@@ -10,10 +10,10 @@ abstract class vehicle{
    void start(){
    System.out.println("bike start with kick");
 }
-   public static void main(Strng [] args){
+   public static void main(String [] args){
    car c = new car();
    c.start();
    bike b = new bike();
    b.start();
-}
-}|
+}}
+
